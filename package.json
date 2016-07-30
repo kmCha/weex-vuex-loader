@@ -1,0 +1,23 @@
+{
+  "name": "weex-vuex-loader",
+  "version": "1.0.0",
+  "description": "use vuex in weex",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmCha/weex-vuex-loader.git"
+  },
+  "keywords": [
+    "weex",
+    "vuex"
+  ],
+  "author": "Majiuxi Cha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmCha/weex-vuex-loader/issues"
+  },
+  "homepage": "https://github.com/kmCha/weex-vuex-loader#readme"
+}
