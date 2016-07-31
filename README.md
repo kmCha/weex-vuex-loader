@@ -2,6 +2,7 @@
 ```bash
 npm install --save weex-vuex-loader
 ```
+then install [vuex-weex](https://github.com/kmCha/vuex-weex).
 
 then open `webpack.config.js`，add 'weex-vuex-loader' after 'weex-loader'：
 
